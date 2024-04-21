@@ -1,14 +1,13 @@
 TEMPLATE=polaris
 FRONT_IMG="$PWD/car.jpg"
 #BOOK_TITLE="Book Title"
-BOOK_TITLE="Мица, Београд и\nодвратни Британац"
+BOOK_TITLE="Book Title"
 BOOK_TITLE_FONT="Times-New-Roman-Bold"
 BOOK_TITLE_FG="maroon"
-#AUTHOR_NAME="Name Surname"
-AUTHOR_NAME="Мирјана Ђурђевић"
+AUTHOR_NAME="Name Surname"
 BOOK_AUTHOR_FONT="Arial"
 AUTHOR_NAME_FG="black"
-PUBLISHER_NAME="Издаваштво „Вулкан“ | BalkanDownload.org"
+PUBLISHER_NAME="Publisher Name Title"
 PUBLISHER_FONT="Arial"
 PUBLISHER_NAME_FG="WhiteSmoke"
 # Margin percents
